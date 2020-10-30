@@ -3,7 +3,7 @@
 
 I am Phemia Ampaire, a Full-Stack Developer. I love challenging myself to be a better person every day. I have contributed to open source projects and helped mentor many developers. My greatest joy is in sharing what I have learnt each day.
 
-I am currently working on a social media application in React.js and Redux. I am also available for hire and please contact me.
+I am currently working on a social media application in ReactJS and Redux. I am also available for hire and please contact me.
 
 ### Contact me
 - [LinkedIn](https://linkedin.com/in/phemia) | [Twitter](https://www.twitter.com/ampaphem) 
