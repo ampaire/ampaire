@@ -6,5 +6,5 @@ I am Phemia Ampaire, a Full Stack Developer. I love challenging myself to be a b
 I am currently working on a social media application in ReactJS and Redux. I am also available for hire and please contact me.
 
 ### Contact me
-- [LinkedIn](https://linkedin.com/in/phemia) | [Twitter](https://www.twitter.com/ampaphem) 
+- [LinkedIn](https://linkedin.com/in/phemia) | [Twitter](https://www.twitter.com/ampaphem) | [Email](femayapr@gmail.com)
 </samp>
