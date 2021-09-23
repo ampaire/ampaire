@@ -3,8 +3,8 @@
 
 I am Phemia Ampaire, a Full Stack Developer. I love challenging myself to be a better person every day. I have contributed to open source projects and helped mentor many developers. My greatest joy is in sharing what I have learnt each day.
 
-I am currently working on a social media application in ReactJS and Redux. I am also available for hire and please contact me.
-
+I am currently working as a Web Development Tutor at CareerFoundry.I also Tutor for Women in Technology(WITU) on part-time basis. I have also accepted an internship role at Cadence starting in October, 2021.
+  
 ### Contact me
   
 - [LinkedIn](https://linkedin.com/in/phemia) | [Twitter](https://www.twitter.com/ampaphem) | [Email](mailto:femayapr@gmail.com)
